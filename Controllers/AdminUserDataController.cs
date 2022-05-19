@@ -29,7 +29,7 @@ namespace microservice2.Controllers
 
          UserName="gopal",
          Password="gopal",
-         Role="Admin"
+         Role="User"
        
 
 
