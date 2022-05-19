@@ -34,6 +34,25 @@ namespace microservice2.Controllers
 
 
 
+    },
+    {
+              UserFirstName="Ritika",
+            UserMiddleName="Maan",
+        UserLastName ="Jain",
+         Address ="Bharatpur",
+         EmailId="ritika99@gmail.com",
+         UniQueHousNo="43",
+         PhoneNo="987654321",
+         
+
+
+         UserName="ritika",
+         Password="jain123",
+         Role="Admin"
+       
+
+
+
     }
 };
         // GET: api/<New2Controller>
